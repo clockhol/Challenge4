@@ -61,7 +61,7 @@ p {
 .blog {
     background-color: var(--project-bg-color);
     padding-bottom: 10px;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
     box-shadow: 2px 2px 4px var(--alt-bg-color);
     border-radius: 5px;
 }
@@ -69,8 +69,13 @@ p {
 .gallery {
     background-color: var(--project-bg-color);
     padding-bottom: 10px;
+    margin-bottom: 25px;
     box-shadow: 2px 2px 4px var(--alt-bg-color);
     border-radius: 5px;
+}
+
+.logo {
+    padding-bottom: 10px;
 }
 
 .footer {
