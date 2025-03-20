@@ -30,7 +30,7 @@ body {
     border-color: var(--accent-color);
     padding: 10px;
     font-size: larger;
-    text-shadow: 1px 1px 4px var(--title-text-color);
+    text-shadow: 1px 1px 6px var(--title-text-color);
 }
 
 .profile {
